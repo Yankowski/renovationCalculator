@@ -1,0 +1,13 @@
+# Compiled class file
+*.class
+
+*/target/
+/out
+*/.settings
+*/.project
+*/.classpath
+
+*.iml
+
+.idea/*
+!.idea/codeStyles/
